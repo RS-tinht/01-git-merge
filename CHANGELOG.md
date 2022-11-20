@@ -1,3 +1,15 @@
+# v1.0.1 - 20221120
+
+- [rs-05] Implement add ERU content to sample file
+
+[PR#8] (https://github.com/RS-tinht/01-git-merge/pull/8)
+
+- [rs-06] Implement remove EST content from sample file
+
+[PR#7] (https://github.com/RS-tinht/01-git-merge/pull/7)
+
+[PR#9] (https://github.com/RS-tinht/01-git-merge/pull/9)
+
 # v1.0.0 - 20221119
 
 - [rs-04] Implement remove EST content to sample file
